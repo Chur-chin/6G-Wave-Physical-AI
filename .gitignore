@@ -1,0 +1,11 @@
+# Simulation output artifacts
+wave_physical_ai.gif
+wave_physical_ai.mp4
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
